@@ -54,7 +54,7 @@ const PaymentForm = (props) => {
             </Form.Item>
             <Form.Item>
                 <Button type="primary" htmlType="submit">
-                    Submit
+                    Расчитать
                     </Button>
             </Form.Item>
         </Form>
