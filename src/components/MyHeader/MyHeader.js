@@ -13,7 +13,7 @@ const MyHeader = () => {
                     <Menu theme="dark" mode="horizontal" >
                         <Menu.Item key="1" ><NavLink to='/'>Главная</NavLink></Menu.Item>
                         <Menu.Item key="2"><NavLink to='/payment'>Расчет</NavLink></Menu.Item>
-                        <Menu.Item key="3"><NavLink to='/programm'>Планы</NavLink></Menu.Item>
+                        <Menu.Item key="3"><NavLink to='/programm'>Программы</NavLink></Menu.Item>
                         <Menu.Item key="4"><NavLink to='/instruction'>Инструкция для регистрации</NavLink></Menu.Item>
                     </Menu>
                 </Col>
