@@ -5,7 +5,7 @@ import PaymentTable from '../components/PaymentTable/PaymentTable'
 const Payment = () => {
     return (
         <div>
-            Цена на Teqra фиксирована + для того чтоб положить на кошелек цена доллара выше примерно на 5 рублей
+            Цена на Teqra фиксирована = 24 доллара + для того чтоб положить на кошелек цена доллара выше примерно на 5 рублей
             <PaymentForm/>
             <PaymentTable/>
         </div>
