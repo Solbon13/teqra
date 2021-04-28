@@ -3,7 +3,8 @@ import React from 'react'
 const Main = () => {
     return (
         <div>
-            cvxbvcxb
+            <p>Расчет в Расчетах</p>
+            <p>Условия в Планы</p>
         </div>
     )
 }
