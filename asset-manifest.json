@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/teqra/static/css/main.c24ef99e.chunk.css",
-    "main.js": "/teqra/static/js/main.ecc9603c.chunk.js",
-    "main.js.map": "/teqra/static/js/main.ecc9603c.chunk.js.map",
+    "main.js": "/teqra/static/js/main.94d41f72.chunk.js",
+    "main.js.map": "/teqra/static/js/main.94d41f72.chunk.js.map",
     "runtime-main.js": "/teqra/static/js/runtime-main.52019cc5.js",
     "runtime-main.js.map": "/teqra/static/js/runtime-main.52019cc5.js.map",
     "static/css/2.03710b91.chunk.css": "/teqra/static/css/2.03710b91.chunk.css",
-    "static/js/2.260cc61c.chunk.js": "/teqra/static/js/2.260cc61c.chunk.js",
-    "static/js/2.260cc61c.chunk.js.map": "/teqra/static/js/2.260cc61c.chunk.js.map",
+    "static/js/2.2c5053de.chunk.js": "/teqra/static/js/2.2c5053de.chunk.js",
+    "static/js/2.2c5053de.chunk.js.map": "/teqra/static/js/2.2c5053de.chunk.js.map",
     "index.html": "/teqra/index.html",
     "static/css/2.03710b91.chunk.css.map": "/teqra/static/css/2.03710b91.chunk.css.map",
     "static/css/main.c24ef99e.chunk.css.map": "/teqra/static/css/main.c24ef99e.chunk.css.map",
-    "static/js/2.260cc61c.chunk.js.LICENSE.txt": "/teqra/static/js/2.260cc61c.chunk.js.LICENSE.txt"
+    "static/js/2.2c5053de.chunk.js.LICENSE.txt": "/teqra/static/js/2.2c5053de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.52019cc5.js",
     "static/css/2.03710b91.chunk.css",
-    "static/js/2.260cc61c.chunk.js",
+    "static/js/2.2c5053de.chunk.js",
     "static/css/main.c24ef99e.chunk.css",
-    "static/js/main.ecc9603c.chunk.js"
+    "static/js/main.94d41f72.chunk.js"
   ]
 }
